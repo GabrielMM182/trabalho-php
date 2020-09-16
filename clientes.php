@@ -46,7 +46,7 @@ if(isset($_GET['msg']) && $_GET['msg'] != ""){
 <head>
 <title>Mensagens Enviadas</title>
 <meta charset="utf-8"/>
-<link rel="stylesheet" type="text/css" href="estilo.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <h1 class="centro">CADASTRO DE CLIENTES</h1>
