@@ -10,6 +10,7 @@ if (mysqli_connect_errno()) {
     exit();
 }
 
+
 $bd = mysqli_select_db($conexao, $bco) or die('Erro ao escolher o banco');
 mysqli_set_charset($conexao, 'UTF-8');
 
