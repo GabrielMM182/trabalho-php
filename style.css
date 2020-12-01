@@ -1,3 +1,7 @@
 .centro {
     text-align: center;
 }
+
+.quadrado {
+    padding: 10px green 2px;
+}
